@@ -1,0 +1,31 @@
+
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>D Y Patil College of Engineering and Technology, Kolhapur</h1>
+
+<h2><a href="https://www.dypcet.edu.in">Computer Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Computer">
+
+<h2><a href="https://www.dypcet.edu.in">Mechanical Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Mechanical">
+
+<h2><a href="https://www.dypcet.edu.in">Civil Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Civil">
+
+<h2><a href="https://www.dypcet.edu.in">Electronics Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Electronics">
+
+<h2><a href="https://www.dypcet.edu.in">Data Science Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Data Science">
+
+<h2><a href="https://www.dypcet.edu.in">Artificial Intelligence Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Artificial Intelligence">
+
+<h2><a href="https://www.dypcet.edu.in">Chemical Engineering</a></h2>
+<img src="https://via.placeholder.com/200" alt="Chemical">
+
+
+</body>
+</html>
