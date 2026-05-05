@@ -1,0 +1,90 @@
+<html>
+<body>
+<br>
+<table border="5" cellpadding="10" bgcolor="lightyellow" align="center">
+<caption><b>GROCERY BILL</b></caption>
+<tr>
+<th>Sr.No</th>
+<th>Items</th>
+<th>Qty</th>
+<th>Price</th>
+</tr>
+
+<tr bgcolor="lightblue">
+<td>1</td>
+<td>Rice</td>
+<td>5 Kg</td>
+<td>500</td>
+</tr>
+
+<tr bgcolor="lightpink">
+<td>2</td>
+<td>Sugar</td>
+<td>2Kg</td>
+<td>100</td>
+</tr>
+
+<tr bgcolor="lightblue">
+<td>3</td>
+<td>Oil</td>
+<td>1 Litre</td>
+<td>150</td>
+</tr>
+
+<tr bgcolor="lightpink">
+<td>4</td>
+<td>Wheat</td>
+<td>3Kg</td>
+<td>300</td>
+</tr>
+
+<tr bgcolor="lightblue">
+<td>5</td>
+<td>Tea powder</td>
+<td>1Kg</td>
+<td>200</td>
+</tr>
+
+<tr bgcolor="lightpink">
+<td>6</td>
+<td>Salt</td>
+<td>1Kg</td>
+<td>20</td>
+</tr>
+
+<tr bgcolor="lightblue">
+<td>7</td>
+<td>Milk</td>
+<td>2 Litre</td>
+<td>120</td>
+</tr>
+
+<tr bgcolor="lightpink">
+<td>8</td>
+<td>Dal</td>
+<td>2Kg</td>
+<td>240</td>
+</tr>
+
+<tr bgcolor="lightblue">
+<td>9</td>
+<td>Soap</td>
+<td>4 pieces</td>
+<td>160</td>
+</tr>
+
+<tr bgcolor="lightpink">
+<td>10</td>
+<td>Biscuits</td>
+<td>5 Packets</td>
+<td>100</td>
+</tr>
+
+<tr class="Total">
+<td colspan="3"align="Centre"><b>TOTAL</b></td>
+<td align="centre"><b>1890</b></td>
+</tr>
+
+</table>
+</body>
+</html>
