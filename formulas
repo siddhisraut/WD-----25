@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> 10 Maths Formulas </title>
+<style>
+   h1{
+      colour:blue;
+      font-weight :bold;
+  </style>
+</head>
+<h1> 10 Maths Formmulas </h1>
+<h2> 1.Area of circle = 3.14*r<sup>2</sup></h2>
+<h2>2.Area of square = a<sup>2</sup></h2>    
+<h2>3.Area of Rectangle = l*b<sup>1</sup></h2>
+<h2>4.Area of cube = a<sup>3</sup></h2>
+<h2>5.Area of Cylinder = 3.14*r<sup>2</sup>*h<sup>1</sup></h2>
+<h2>6.Pythagoras theorem = a<sup>2</sup>+b<sup>2</sup>-c<sup>1</sup></h2>
+<h2>7.speed formula = d<sub>1</sub>/t<sub>1</sub></h2>
+<h2>8.force formula = m<sub>1</sub>*a<sub>1</sub></h2>
+<h2>9.simple interest = (P<sub>1</sub>*R<sub>*T<sub>1<sub>)/100 <h2>
+<h2>10.Quadratic Formula : X<sub>1</sub>,X<sub>2</sub> = x = (-b ± √(b² - 4ac)) / 2a </h2>
+
+</body>
+</html>
+
