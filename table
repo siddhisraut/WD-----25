@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Evaluation Formulas</title>
+</head>
+<body bgcolor = "yellow">
+<h1>Evaluation Formulas</h1>
+<hr>
+<table>
+<tr>
+<th>subject</th>
+<th>formula</th>
+</tr>
+<tr>
+<td>Maths</td>
+<ol type ="I">
+    <td>a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></td>
+    <td>(a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></td>
+    <td>(a - b)<sup>2</sup> = a<sup>2</sup> - 2ab + b<sup>2</sup></td>
+    <td>Area of Circle = πr<sup>2</sup></td>
+    <td>Volume of Cube = a<sup>3</sup></td>
+    <td>Simple Interest = (P × R × T) / 100</td>
+    <td>Speed = Distance / Time</td>
+</ol>
+</tr>
+<hr>
+<tr>
+<td>Physics Formulas</td>
+<ul>
+    <td>Speed = Distance / Time</td>
+    <td>Velocity = Displacement / Time</td>
+    <td>Acceleration = (v − u) / t</td>
+    <td>Force = Mass × Acceleration</td>
+    <td>Work = Force × Distance</td>
+    <td>Power = Work / Time</td>
+    <td>Energy = mc<sup>2</sup></td>
+</ul>
+</tr>
+<hr>
+<tr>
+<h2>Chemistry Formulas</h2>
+<ol type ="I">
+    <li>H<sub>2</sub>O</li>
+    <li>CO<sub>2</sub></li>
+    <li>H<sub>2</sub>SO<sub>4</sub></li>
+    <li>NaCl</li>
+    <li>CaCO<sub>3</sub></li>
+    <li>Molarity = Moles / Volume</li>
+</ol>
+<hr>
+</body>
+</html>
