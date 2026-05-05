@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background: linear-gradient(to right, #dfe9f3, #ffffff);
+        }
+
+        .box {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 40px;
+            font-weight: bold;
+            color: #0d47a1;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #1565c0;
+        }
+
+        h3 {
+            color: #1976d2;
+            border-bottom: 2px solid #90caf9;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th {
+            background-color: #1976d2;
+            color: white;
+        }
+
+        td {
+            border: 1px solid #1976d2;
+            padding: 8px;
+        }
+
+        ul li {
+            color: #333;
+        }
+
+        hr {
+            border: 1px solid #90caf9;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="box">
+
+    <div class="title">RESUME</div>
+
+    <h2>Siddhi Sachin Raut</h2>
+    <p>Email: siddihiraut@gmail.com</p>
+    <p>Phone: 8788288467</p>
+    <hr>
+
+    <h3>Career Objective</h3>
+    <p>To work in a challenging environment where I can use my skills and grow professionally.</p>
+
+    <h3>Education</h3>
+    <table>
+        <tr>
+            <th>Qualification</th>
+            <th>Institute</th>
+        </tr>
+        <tr>
+            <td>B.Tech</td>
+            <td>D.Y. Patil College of Engineering and Technology, Kolhapur</td>
+        </tr>
+        <tr>
+            <td>12th</td>
+            <td>Chate Junior College of Science</td>
+        </tr>
+        <tr>
+            <td>10th</td>
+            <td>Princess Padmaraje Girls High School</td>
+        </tr>
+    </table>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Basic Programming</li>
+    </ul>
+
+    <h3>Projects</h3>
+    <p>Industrial Chatbot using AI</p>
+
+    <h3>Languages Known</h3>
+    <ul>
+        <li>English</li>
+        <li>Marathi</li>
+        <li>Hindi</li>
+    </ul>
+
+    <h3>Hobbies</h3>
+    <ul>
+        <li>Dancing</li>
+        <li>Listening to Music</li>
+        <li>Learning New Technology</li>
+    </ul>
+
+    <h3>Personal Details</h3>
+    <p>Date of Birth: 25/06/2006</p>
+    <p>Address: Kolhapur</p>
+
+    <h3>Declaration</h3>
+    <p>I hereby declare that the above information is true to the best of my knowledge.</p>
+
+</div>
+
+</body>
+</html>
