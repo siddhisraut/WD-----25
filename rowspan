@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>Grocery Bill</title>
+</head>
+<body>
+
+<table border="5">
+<caption>Grocery Bill</caption>
+
+<tr style="background-color: lightblue;">
+    <th>Sr.no</th>
+    <th>Item</th>
+    <th>Qty</th>
+    <th>Price</th>
+</tr>
+
+<tr>
+    <td rowspan="2">1</td>
+    <td>Rice</td>
+    <td>5</td>
+    <td>500</td>
+</tr>
+
+<tr>
+    <td>Wheat</td>
+    <td>3</td>
+    <td>300</td>
+</tr>
+
+<tr>
+    <td>2</td>
+    <td>Oil</td>
+    <td>2</td>
+    <td>200</td>
+</tr>
+
+<tr style="background-color: lightgreen;">
+    <td colspan="3">Total</td>
+    <td>1000 /-</td>
+</tr>
+
+</table>
+
+</body>
+</html>
