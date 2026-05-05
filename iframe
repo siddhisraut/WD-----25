@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Frameset</title>
+</head>
+
+
+<body><div>
+    <iframe src="bill.html" class="sidebar" height="120% width="70%"></iframe>
+    <iframe src="table.html" class="main" height="120% width="70%"></iframe>
+</div></body></html>
