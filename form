@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form Input Example</title>
+</head>
+<body>
+<form>
+<lable> first name: </lable>
+<input type "text" value = "siddhi">
+<lable> last name: </lable>
+<input type "text" value = "raut">
+</form>
+<form>
+<label>Course:</label><br></br>
+<input type="radio"><label> BCA </lable><br></br>
+<input type="radio"><label> BCom </lable><br></br>
+<input type="radio"><label> B-tech </lable><br></br>
+<label>Skills:</label>
+<input type="checkbox"><lable> HTML </lable>
+<input type="checkbox"><lable> Java </lable>
+<input type="checkbox"><lable> Python </lable>
+<br><br>
+<input type="submit" value="Submit">
+<button type="button">Click Me</button>
+</form>
+</body>
+</html>
